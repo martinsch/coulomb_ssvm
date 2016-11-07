@@ -1,3 +1,5 @@
+# Learning Diverse Models: The Coulomb Structured Support Vector Machine
+
 This repository provides an implementation for 
 
 M. Schiegg, F. Diego, F. A. Hamprecht. 
@@ -15,7 +17,7 @@ M. Schiegg, F. Diego, F. A. Hamprecht.
 }
 ```
 
-The **Coulomb Structured Support Vector Machine** (CSSVM) alorithm is implemented as an extension to the [**pystruct**](https://github.com/pystruct/pystruct) framework. 
+The **Coulomb Structured Support Vector Machine** (CSSVM) algorithm is implemented as an extension to the [**pystruct**](https://github.com/pystruct/pystruct) framework. 
 
 ## Installation instruction
 
